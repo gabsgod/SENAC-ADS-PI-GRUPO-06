@@ -43,7 +43,7 @@ Desenvolver uma plataforma digital acessível e intuitiva que ajude novos tutore
 - Shoppings pet friendly.
 - Informações sobre estabelecimentos na cidade de São Paulo.
 
-## 👥 Equipe de desenvolvimento
+##  Equipe de desenvolvimento
 
 Projeto desenvolvido pelos alunos do curso de Análise e Desenvolvimento de Sistemas do Centro Universitário Senac.
 
@@ -63,7 +63,7 @@ O projeto consiste em uma aplicação Web responsiva, disponibilizada por meio d
 - **Repositório e versionamento:** GitHub
 - **Acesso:** Navegadores Web em computadores, tablets e smartphones.
 
-## 🌐 Como acessar o projeto
+##  Como acessar o projeto
 
 Não é necessário instalar nenhum programa ou realizar cadastro.
 
@@ -72,7 +72,7 @@ Não é necessário instalar nenhum programa ou realizar cadastro.
 3. Consulte os guias e orientações.
 4. Utilize as funcionalidades para conhecer os cuidados necessários com seu animal de estimação.
 
-## 🎓 Informações acadêmicas
+##  Informações acadêmicas
 
 - **Instituição:** Centro Universitário Senac
 - **Curso:** Análise e Desenvolvimento de Sistemas (ADS)
@@ -81,7 +81,7 @@ Não é necessário instalar nenhum programa ou realizar cadastro.
 - **Ano:** 2026
 - **Orientador:** Anderson Clayton Garcia Lopes
 
-## 💚 Nosso propósito
+##  Nosso propósito
 
 Acreditamos que a adoção responsável começa com a informação.
 
