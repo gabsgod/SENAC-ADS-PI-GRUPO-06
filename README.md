@@ -2,9 +2,9 @@
 
 **Projeto Integrador | 4º Semestre | Análise e Desenvolvimento de Sistemas — Senac 2026**
 
-🌐 **Acesse o projeto:** [FreePet - Guia de Posse Responsável](https://gabsgod.github.io/SENAC-ADS-PI-GRUPO-06/)
+ **Acesse o projeto:** [FreePet - Guia de Posse Responsável](https://gabsgod.github.io/SENAC-ADS-PI-GRUPO-06/)
 
-## 📌 Sobre o projeto
+##  Sobre o projeto
 
 O **FreePet** é uma aplicação web desenvolvida com o objetivo de auxiliar pessoas que desejam adotar ou cuidar de seu primeiro cão ou gato.
 
@@ -12,11 +12,11 @@ A plataforma reúne informações e orientações sobre adoção consciente, pri
 
 O projeto busca facilitar o acesso à informação, incentivar a posse responsável e contribuir para o bem-estar dos animais, oferecendo conteúdo gratuito e de fácil acesso, sem necessidade de cadastro.
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desenvolver uma plataforma digital acessível e intuitiva que ajude novos tutores a se prepararem para receber um animal de estimação, oferecendo informações sobre saúde, alimentação, higiene, segurança e planejamento financeiro.
 
-## 🚀 Funcionalidades
+##  Funcionalidades
 
 ### 🏠 1. Guia de Adoção Consciente
 - Checklist de preparação do ambiente doméstico.
