@@ -1,4 +1,4 @@
-# 🐾 FreePet — Guia de Posse Responsável
+#  FreePet — Guia de Posse Responsável
 
 **Projeto Integrador | 4º Semestre | Análise e Desenvolvimento de Sistemas — Senac 2026**
 
@@ -18,26 +18,26 @@ Desenvolver uma plataforma digital acessível e intuitiva que ajude novos tutore
 
 ##  Funcionalidades
 
-### 🏠 1. Guia de Adoção Consciente
+###  1. Guia de Adoção Consciente
 - Checklist de preparação do ambiente doméstico.
 - Orientações sobre segurança e adaptação do animal.
 - Estimativa de custos iniciais e mensais.
 - Planejamento financeiro para a chegada do pet.
 
-### 🐶 2. Manual de Primeiros Cuidados
+###  2. Manual de Primeiros Cuidados
 - Orientações sobre alimentação e nutrição.
 - Cuidados com higiene.
 - Adaptação do animal ao novo lar.
 - Prevenção de acidentes domésticos.
 - Dicas para garantir o bem-estar dos animais.
 
-### 💉 3. Cronograma de Vacinação e Castração
+###  3. Cronograma de Vacinação e Castração
 - Informações sobre vacinação de cães e gatos.
 - Cronograma de imunização.
 - Orientações sobre castração.
 - Informações sobre cuidados preventivos.
 
-### 📍 4. Guia Pet Friendly
+###  4. Guia Pet Friendly
 - Indicação de parques.
 - Restaurantes e cafeterias que aceitam animais.
 - Shoppings pet friendly.
@@ -55,7 +55,7 @@ Projeto desenvolvido pelos alunos do curso de Análise e Desenvolvimento de Sist
 | Joaquim Carlos Mendonça | Desenvolvimento do projeto |
 | Jorge Luiz Silva Araujo | Desenvolvimento do projeto |
 
-## 🛠️ Tecnologias e ambiente
+##  Tecnologias e ambiente
 
 O projeto consiste em uma aplicação Web responsiva, disponibilizada por meio do GitHub Pages.
 
