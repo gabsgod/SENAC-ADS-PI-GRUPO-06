@@ -80,6 +80,7 @@ Não é necessário instalar nenhum programa ou realizar cadastro.
 - **Semestre:** 4º Semestre
 - **Ano:** 2026
 - **Orientador:** Anderson Clayton Garcia Lopes
+- **Tutora:** Ruth Garcia
 
 ##  Nosso propósito
 
