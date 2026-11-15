@@ -12,6 +12,12 @@ A plataforma reúne informações e orientações sobre adoção consciente, pri
 
 O projeto busca facilitar o acesso à informação, incentivar a posse responsável e contribuir para o bem-estar dos animais, oferecendo conteúdo gratuito e de fácil acesso, sem necessidade de cadastro.
 
+Para este site usamos o paradigma de desenvolvimento web SPA (Single-Page Applications), que carrega uma única página HTML e garante ao usuário uma experiência mais fluída e ágil.
+
+Referência Bibliográfica:
+SILVA, Luiz Ricardo Mantovani da. Desenvolvimento web e mobile: fundamentos, tecnologias e práticas. Rio de Janeiro, RJ: Freitas Bastos, 2026.
+
+
 ##  Objetivo
 
 Desenvolver uma plataforma digital acessível e intuitiva que ajude novos tutores a se prepararem para receber um animal de estimação, oferecendo informações sobre saúde, alimentação, higiene, segurança e planejamento financeiro.
