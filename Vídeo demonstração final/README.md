@@ -1,8 +1,16 @@
-🐾 Demonstração Final – FreePet
+
+# 🐾 Demonstração Final – FreePet
+
 Conheça o FreePet! Um projeto desenvolvido pelo Grupo 06 de ADS do Senac EAD.
-🎬 Assista ou baixe a demonstração
-Clique na imagem abaixo para acessar o vídeo de demonstração:
 
-Arquivo: FreePet.mp4
+## 🎬 Assista à demonstração
 
-Formato: MP4
+Clique na imagem abaixo para assistir ou baixar o vídeo:
+
+[![Demonstração FreePet](./capa-freepet.png)](./FreePet.mp4?raw=1)
+
+### 📥 Download do vídeo
+
+[⬇️ CLIQUE AQUI PARA BAIXAR O VÍDEO FreePet.mp4](./FreePet.mp4?raw=1)
+
+**Formato:** MP4
