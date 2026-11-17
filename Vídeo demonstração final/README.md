@@ -7,7 +7,7 @@ Conheça o FreePet! Um projeto desenvolvido pelo Grupo 06 de ADS do Senac EAD.
 
 Clique na imagem abaixo para assistir ou baixar o vídeo:
 
-[![Demonstração FreePet](./capa-freepet.png)](./FreePet.mp4?raw=1)
+[![Demonstração FreePet](./capa-freepet-1.png)](./FreePet.mp4?raw=1)
 
 ###  Download do vídeo
 
